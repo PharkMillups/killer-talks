@@ -11,8 +11,6 @@ When you see a talk you love, it sticks with you. Why was it so memorable? A few
 * The speaker didn't use slides, and it blew your mind
 * The production quality (filming, editing, etc.) were exceptional and should be emulated
 * Someone took a huge risk and blew you away (like killing production nodes mid-talk) 
-
-These also might be helpful for those of you seeking pre-talk inspiration. ("Talent borrows. Genius Steals.")  
  
 As usual, **pull requests are encouraged**. I'll be updating this regularly but there are scores of killer talks out there, and I've only seen a trivial portion of them. *If you're contributing a talk, include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.*	
 
