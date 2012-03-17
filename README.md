@@ -1,6 +1,6 @@
 # Killer Talks 
 
-One of the distinct joys and privileges I've had as Community Manager at [Basho](http://basho.com) is being able to attend, view, and facilitate Technical Talks. Technical Talks are a form of intellectual currency; talented speakers are heralded and sought after (for good reason), and fanboys like me memorize URLs of favorites so they can get credit for introducing a classic to a newcomer. ("Bro, you haven't seen Hickey's 'Simple Made Easy?'")
+One of the distinct joys and privileges I've had as Community Manager at [Basho](http://basho.com) is being able to attend, view, and facilitate technical talks. Technical talks are a form of intellectual currency; talented speakers are heralded and sought after (for good reason), and fanboys like me memorize URLs of favorites so they can get credit for introducing a classic to a newcomer. ("Bro, you haven't seen Hickey's 'Simple Made Easy?'")
 
 When you see a talk you love, it sticks with you. Why was it so memorable? A few potential reasons:
 
