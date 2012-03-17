@@ -17,10 +17,10 @@ As usual, **pull requests are encouraged**. I'll be updating this regularly but 
 
 ### Talks (in no particular order)
 
-* [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) (Rich Hickey, Strange Loop 2011) Hickey talk 1 of N that's worth every minute (even if you don't care at all about programming).
-* [An End to Negativity](http://jsconf.eu/2011/an_end_to_negativity.html) (Chris Williams, JSConf.eu 2011) Pure passion. 
-* [Ben Fried's Surge 2011 Key Note](http://www.youtube.com/watch?v=gNhn-bNc96Y) Lessons learned and practical advice on the importance of being a generalist. Also, no slides; few can pull this off well. 
-* [Inventing on Principle](https://vimeo.com/36579366) (Bret Victor, CUSEC 2012) Driven thinker and technologist talking about important things. 
-* [WAT](https://www.destroyallsoftware.com/talks/wat) (Gary Bernardt, CodeMash 2012) Hilarious and entertaining. Arguably a perfect lightening talk. 
-* [Instant-ish Real Service Architecture](https://vimeo.com/37930578) (Ted Nyman, BashoChats) Smart, witty, and immediately applicable. Also gives you a simple call to action (which many speakers forget to do).
-* [How Eventual is Eventual Consistency?](https://vimeo.com/37758648) (Peter Bailis, Basho Chats)  Great example of how to take an abstract concept and turn it into a practical talk with concrete findings and advice. Peter's also a high-caliber speaker.
+* [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) (**Rich Hickey, Strange Loop 2011**) Hickey talk 1 of N that's worth every minute (even if you don't care at all about programming).
+* [An End to Negativity](http://jsconf.eu/2011/an_end_to_negativity.html) (**Chris Williams, JSConf.eu 2011**) Pure passion. 
+* [Surge 2011 Key Note](http://www.youtube.com/watch?v=gNhn-bNc96Y) (**Ben Fried, Surge 2011**) Lessons learned and practical advice on the importance of being a generalist. Also, no slides; few can pull this off well. 
+* [Inventing on Principle](https://vimeo.com/36579366) (**Bret Victor, CUSEC 2012**) Driven thinker and technologist talking about important things. 
+* [WAT](https://www.destroyallsoftware.com/talks/wat) (**Gary Bernardt, CodeMash 2012**) Hilarious and entertaining. Arguably a perfect lightening talk. 
+* [Instant-ish Real Service Architecture](https://vimeo.com/37930578) (**Ted Nyman, BashoChats**) Smart, witty, and immediately applicable. Also gives you a simple call to action (which many speakers forget to do).
+* [How Eventual is Eventual Consistency?](https://vimeo.com/37758648) (**Peter Bailis, Basho Chats**)  Great example of how to take an abstract concept and turn it into a practical talk with concrete findings and advice. Peter's also a high-caliber speaker.
