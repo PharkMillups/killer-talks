@@ -24,3 +24,4 @@ As usual, **pull requests are encouraged**. I'll be updating this regularly but 
 * [WAT](https://www.destroyallsoftware.com/talks/wat) (**Gary Bernardt, CodeMash 2012**) Hilarious and entertaining. Arguably a perfect lightening talk. 
 * [Instant-ish Real Service Architecture](https://vimeo.com/37930578) (**Ted Nyman, BashoChats**) Smart, witty, and immediately applicable. Also gives you a simple call to action (which many speakers forget to do).
 * [How Eventual is Eventual Consistency?](https://vimeo.com/37758648) (**Peter Bailis, Basho Chats**)  Great example of how to take an abstract concept and turn it into a practical talk with concrete findings and advice. Peter's also a high-caliber speaker.
+* [Persistent Data Structures and Managed References](http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey) (**Rich Hickey**) Describes Clojure's approach to state, identity and concurrency.
