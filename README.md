@@ -9,7 +9,7 @@ When you see a talk you love, it sticks with you. Why was it so memorable? A few
 * The speaker was a pure entertainer, and had a perfect mix of technical depth, wit, wisdom, and passion
 * The slide quality and talk preparation were second-to-none
 * The speaker didn't use slides, and it blew your mind
-* The production quality (filming, editing, etc.) were exceptional and should be emulated
+* The production quality (filming, editing, etc.) was exceptional and should be emulated
  
 As usual, **pull requests are encouraged**. I'll be updating this regularly but there are scores of killer talks out there, and I've only seen a trivial portion of them. *If you're contributing a talk, include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.*	
 
